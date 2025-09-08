@@ -2,7 +2,7 @@ Mobile Shop – React E-Commerce App
 
 A sleek and responsive e-commerce application built with React.js, featuring an animated UI, product catalog, shopping cart, and smooth transitions.
 
-🔗 Live Demo: animated-zuccutto-1b4331.netlify.app
+🔗 Live Demo: [animated-zuccutto-1b4331.netlify.app](https://animated-zuccutto-1b4331.netlify.app/)
 
 A simple **React.js** e-commerce application for mobile phones with **Add to Cart**, **Cart Page**, and **Search functionality**. Styled using **Bootstrap** and custom **gradient-themed CSS**.
 
